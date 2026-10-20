@@ -38,37 +38,37 @@ This project applies two clustering algorithms, K-Means and Spectral Clustering,
 
 ### Lab 1: K-Means Clustering
 
-**Generated Data - Before K-Means**
+**Generated Data - Before K-Means**<br>
 <img width="689" height="490" alt="Generated Data Before K-means" src="https://github.com/user-attachments/assets/73affcbb-bbea-478c-9452-71eb144106b2" />
 
 
-**Generated Data - After K-Means**
+**Generated Data - After K-Means**<br>
 <img width="689" height="490" alt="Generated Data After K-Means" src="https://github.com/user-attachments/assets/06bd200a-9411-42fc-84e7-ce016f71d482" />
 
 
-**Coffee Image - Before K-Means**
+**Coffee Image - Before K-Means**<br>
 <img width="691" height="490" alt="Coffee Image Before K-Means" src="https://github.com/user-attachments/assets/bb40b6a0-d1e5-4526-aa51-864292e1aeb6" />
 
 
-**Coffee Image - After K-Means**
+**Coffee Image - After K-Means**<br>
 <img width="691" height="490" alt="Coffee Image After K-Means" src="https://github.com/user-attachments/assets/f8e2a878-5542-4a30-9acc-63f705aa7647" />
 
 
 
 ### Lab 2: Spectral Clustering
 
-**Generated Circles - Before Spectral Clustering**
+**Generated Circles - Before Spectral Clustering**<br>
 <img width="690" height="490" alt="Generated Circles Before Spectral Clustering" src="https://github.com/user-attachments/assets/728cbc04-c2c1-479a-85cf-eeff3c8cf616" />
 
 
-**Generated Circles - After Spectral Clustering**
+**Generated Circles - After Spectral Clustering**<br>
 <img width="690" height="490" alt="Generated Circles After Spectral Clustering" src="https://github.com/user-attachments/assets/e463550f-7815-4a17-8fb4-7cf38e331ee4" />
 
 
-**Coins Image - Before Spectral Clustering**
+**Coins Image - Before Spectral Clustering**<br>
 <img width="587" height="490" alt="Coins Image Before Spectral Clustering" src="https://github.com/user-attachments/assets/6417b505-fe61-451e-9415-c0b734510c6b" />
 
-**Coins Image - After Spectral Clustering**
+**Coins Image - After Spectral Clustering**<br>
 <img width="585" height="490" alt="Coins Image After Spectral Clustering" src="https://github.com/user-attachments/assets/bed5a8ba-dae7-4f04-98ea-ebb64aace949" />
 
 
