@@ -35,43 +35,35 @@ This project applies two clustering algorithms, K-Means and Spectral Clustering,
 - `BSCS_4388_Lab1_2_Clustering.ipynb` – Jupyter Notebook containing the lab steps and outputs.
 
 ## Output Images
-## Lab 1: K-Means Clustering
 
-**Generated Data Before Clustering**
+### Lab 1: K-Means Clustering
 
-![Generated data before clustering](Generated Data Before K-Means.png) 
+**Generated Data - Before K-Means**
+![Generated Data Before K-Means](Generated%20Data%20Before%20K-means....png)
 
-**Generated Data After Clustering**
+**Generated Data - After K-Means**
+![Generated Data After K-Means](Generated%20Data%20After%20K-Means.png)
 
-![Generated data after clustering](Generated Data After K-Means.png)
+**Coffee Image - Before K-Means**
+![Coffee Image Before K-Means](Coffee%20Image%20Before%20K-Means.png)
 
-**Coffee Image Before Clustering**
+**Coffee Image - After K-Means**
+![Coffee Image After K-Means](Coffee%20Image%20After%20K-Means.png)
 
-![Coffee image before clustering](Coffee Image Before K-Means.png)
 
-**Coffee Image After Clustering**
+### Lab 2: Spectral Clustering
 
-![Coffee image after clustering](Coffee Image After K-Means.png)
+**Generated Circles - Before Spectral Clustering**
+![Generated Circles Before Spectral](Generated%20Circles%20Before%20Spectral....png)
 
----
+**Generated Circles - After Spectral Clustering**
+![Generated Circles After Spectral](Generated%20Circles%20After%20Spectral%20....png)
 
-## Lab 2: Spectral Clustering
+**Coins Image - Before Spectral Clustering**
+![Coins Image Before Spectral](Coins%20Image%20Before%20Spectral%20Clust....png)
 
-**Generated Data Before Clustering**
-
-![Generated data before clustering](Generated Circles Before Spectral Clustering.png)
-
-**Generated Data After Clustering**
-
-![Generated data after clustering](Generated Circles After Spectral Clustering.png)
-
-**Coins Image Before Clustering**
-
-![Coins image before clustering](Coins Image Before Spectral Clustering.png)
-
-**Coins Image After Clustering**
-
-![Coins image after clustering](Coins Image After Spectral Clustering.png)
+**Coins Image - After Spectral Clustering**
+![Coins Image After Spectral](Coins%20Image%20After%20Spectral%20Cluste....png)
 
 ## Installation
 Install the required libraries by running:
