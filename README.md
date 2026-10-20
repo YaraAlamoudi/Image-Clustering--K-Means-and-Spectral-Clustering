@@ -30,9 +30,8 @@ This project applies two clustering algorithms, K-Means and Spectral Clustering,
 2. **Coins Image:** The coins image provided by `skimage.data.coins()`.
 
 ## Project Files
-- `kmeans_clustering.py` – Code for K-Means clustering.
-- `spectral_clustering.py` – Code for Spectral Clustering.
-- `BSCS_4388_Lab1_2_Clustering.ipynb` – Jupyter Notebook containing the lab steps and outputs.
+-lab1_2_kmeans_spectral.py
+-Lab1_2_KMeans_Spectral.ipynb
 
 ## Output Images
 
@@ -71,26 +70,6 @@ This project applies two clustering algorithms, K-Means and Spectral Clustering,
 **Coins Image - After Spectral Clustering**<br>
 <img width="585" height="490" alt="Coins Image After Spectral Clustering" src="https://github.com/user-attachments/assets/bed5a8ba-dae7-4f04-98ea-ebb64aace949" />
 
-
-## Installation
-Install the required libraries by running:
-
-```bash
-pip install numpy matplotlib scikit-learn scikit-image
-```
-
-## How to Run
-Run either Python script from the terminal:
-
-```bash
-python kmeans_clustering.py
-```
-
-```bash
-python spectral_clustering.py
-```
-
-You can also open `BSCS_4388_Lab1_2_Clustering.ipynb` in Jupyter Notebook and run the cells in order.
 
 ## Conclusion
 This lab helped me practice using K-Means and Spectral Clustering on generated datasets and real images. The results show how clustering can group similar data points and separate different regions in an image.
