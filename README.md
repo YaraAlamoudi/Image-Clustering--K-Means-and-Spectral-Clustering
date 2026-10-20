@@ -35,17 +35,43 @@ This project applies two clustering algorithms, K-Means and Spectral Clustering,
 - `BSCS_4388_Lab1_2_Clustering.ipynb` – Jupyter Notebook containing the lab steps and outputs.
 
 ## Output Images
-### K-Means
-- `kmeans_data_before.png` – Generated data before clustering.
-- `kmeans_data_after.png` – Generated data after clustering.
-- `kmeans_image_before.png` – Coffee image before clustering.
-- `kmeans_image_after.png` – Coffee image after clustering.
+## Lab 1: K-Means Clustering
 
-### Spectral Clustering
-- `spectral_data_before.png` – Generated data before clustering.
-- `spectral_data_after.png` – Generated data after clustering.
-- `spectral_image_before.png` – Coins image before clustering.
-- `spectral_image_after.png` – Coins image after clustering.
+**Generated Data Before Clustering**
+
+![Generated data before clustering](Generated Data Before K-Means.png) 
+
+**Generated Data After Clustering**
+
+![Generated data after clustering](Generated Data After K-Means.png)
+
+**Coffee Image Before Clustering**
+
+![Coffee image before clustering](Coffee Image Before K-Means.png)
+
+**Coffee Image After Clustering**
+
+![Coffee image after clustering](Coffee Image After K-Means.png)
+
+---
+
+## Lab 2: Spectral Clustering
+
+**Generated Data Before Clustering**
+
+![Generated data before clustering](Generated Circles Before Spectral Clustering.png)
+
+**Generated Data After Clustering**
+
+![Generated data after clustering](Generated Circles After Spectral Clustering.png)
+
+**Coins Image Before Clustering**
+
+![Coins image before clustering](Coins Image Before Spectral Clustering.png)
+
+**Coins Image After Clustering**
+
+![Coins image after clustering](Coins Image After Spectral Clustering.png)
 
 ## Installation
 Install the required libraries by running:
