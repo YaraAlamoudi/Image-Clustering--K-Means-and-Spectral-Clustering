@@ -61,7 +61,6 @@ This project applies two clustering algorithms, K-Means and Spectral Clustering,
 
 **Coins Image - Before Spectral Clustering**
 ![Coins Image Before Spectral Clustering](Coins%20Image%20Before%20Spectral%20Clust....png)
-
 **Coins Image - After Spectral Clustering**
 ![Coins Image After Spectral Clustering](Coins%20Image%20After%20Spectral%20Cluste....png)
 
