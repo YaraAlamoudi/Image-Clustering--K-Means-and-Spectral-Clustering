@@ -39,7 +39,7 @@ This project applies two clustering algorithms, K-Means and Spectral Clustering,
 ### Lab 1: K-Means Clustering
 
 **Generated Data - Before K-Means**
-![Generated Data Before K-Means](Generated%20Data%20Before%20K-means....png)
+![Generated Data Before K-means](Generated%20Data%20Before%20K-means....png)
 
 **Generated Data - After K-Means**
 ![Generated Data After K-Means](Generated%20Data%20After%20K-Means.png)
@@ -54,16 +54,16 @@ This project applies two clustering algorithms, K-Means and Spectral Clustering,
 ### Lab 2: Spectral Clustering
 
 **Generated Circles - Before Spectral Clustering**
-![Generated Circles Before Spectral](Generated%20Circles%20Before%20Spectral....png)
+![Generated Circles Before Spectral Clustering](Generated%20Circles%20Before%20Spectral....png)
 
 **Generated Circles - After Spectral Clustering**
-![Generated Circles After Spectral](Generated%20Circles%20After%20Spectral%20....png)
+![Generated Circles After Spectral Clustering](Generated%20Circles%20After%20Spectral%20....png)
 
 **Coins Image - Before Spectral Clustering**
-![Coins Image Before Spectral](Coins%20Image%20Before%20Spectral%20Clust....png)
+![Coins Image Before Spectral Clustering](Coins%20Image%20Before%20Spectral%20Clust....png)
 
 **Coins Image - After Spectral Clustering**
-![Coins Image After Spectral](Coins%20Image%20After%20Spectral%20Cluste....png)
+![Coins Image After Spectral Clustering](Coins%20Image%20After%20Spectral%20Cluste....png)
 
 ## Installation
 Install the required libraries by running:
