@@ -43,13 +43,16 @@ This project applies two clustering algorithms, K-Means and Spectral Clustering,
 
 
 **Generated Data - After K-Means**
-(Generated%20Data%20After%20K-Means.png)
+<img width="689" height="490" alt="Generated Data After K-Means" src="https://github.com/user-attachments/assets/06bd200a-9411-42fc-84e7-ce016f71d482" />
+
 
 **Coffee Image - Before K-Means**
-(Coffee%20Image%20Before%20K-Means.png)
+<img width="691" height="490" alt="Coffee Image Before K-Means" src="https://github.com/user-attachments/assets/bb40b6a0-d1e5-4526-aa51-864292e1aeb6" />
+
 
 **Coffee Image - After K-Means**
-(Coffee%20Image%20After%20K-Means.png)
+<img width="691" height="490" alt="Coffee Image After K-Means" src="https://github.com/user-attachments/assets/f8e2a878-5542-4a30-9acc-63f705aa7647" />
+
 
 
 ### Lab 2: Spectral Clustering
