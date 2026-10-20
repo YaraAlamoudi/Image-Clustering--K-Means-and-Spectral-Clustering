@@ -39,30 +39,35 @@ This project applies two clustering algorithms, K-Means and Spectral Clustering,
 ### Lab 1: K-Means Clustering
 
 **Generated Data - Before K-Means**
-![Generated Data Before K-means](Generated%20Data%20Before%20K-means....png)
+<img width="689" height="490" alt="Generated Data Before K-means" src="https://github.com/user-attachments/assets/73affcbb-bbea-478c-9452-71eb144106b2" />
+
 
 **Generated Data - After K-Means**
-![Generated Data After K-Means](Generated%20Data%20After%20K-Means.png)
+(Generated%20Data%20After%20K-Means.png)
 
 **Coffee Image - Before K-Means**
-![Coffee Image Before K-Means](Coffee%20Image%20Before%20K-Means.png)
+(Coffee%20Image%20Before%20K-Means.png)
 
 **Coffee Image - After K-Means**
-![Coffee Image After K-Means](Coffee%20Image%20After%20K-Means.png)
+(Coffee%20Image%20After%20K-Means.png)
 
 
 ### Lab 2: Spectral Clustering
 
 **Generated Circles - Before Spectral Clustering**
-![Generated Circles Before Spectral Clustering](Generated%20Circles%20Before%20Spectral....png)
+<img width="690" height="490" alt="Generated Circles Before Spectral Clustering" src="https://github.com/user-attachments/assets/728cbc04-c2c1-479a-85cf-eeff3c8cf616" />
+
 
 **Generated Circles - After Spectral Clustering**
-![Generated Circles After Spectral Clustering](Generated%20Circles%20After%20Spectral%20....png)
+<img width="690" height="490" alt="Generated Circles After Spectral Clustering" src="https://github.com/user-attachments/assets/e463550f-7815-4a17-8fb4-7cf38e331ee4" />
+
 
 **Coins Image - Before Spectral Clustering**
-![Coins Image Before Spectral Clustering](Coins%20Image%20Before%20Spectral%20Clust....png)
+<img width="587" height="490" alt="Coins Image Before Spectral Clustering" src="https://github.com/user-attachments/assets/6417b505-fe61-451e-9415-c0b734510c6b" />
+
 **Coins Image - After Spectral Clustering**
-![Coins Image After Spectral Clustering](Coins%20Image%20After%20Spectral%20Cluste....png)
+<img width="585" height="490" alt="Coins Image After Spectral Clustering" src="https://github.com/user-attachments/assets/bed5a8ba-dae7-4f04-98ea-ebb64aace949" />
+
 
 ## Installation
 Install the required libraries by running:
